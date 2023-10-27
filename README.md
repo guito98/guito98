@@ -4,6 +4,12 @@
 - 📖 I’m studying at [Senac]:https://www.ead.senac.br/
 
 
+
+
+
+
+
+
 ![5-2-python-logo-png-image](https://github.com/guito98/guito98/assets/134552848/54dd64cd-d3a7-4e0f-8339-936bc57361e5)
 
 <!---
