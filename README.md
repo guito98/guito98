@@ -3,14 +3,13 @@
 - 🌱 I’m currently learning **C#, Python** and FrontEnd with **HTML, CSS e Javascript**
 - 📖 I’m studying at [Senac]:https://www.ead.senac.br/
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-
-
-
-
-
-![5-2-python-logo-png-image](https://github.com/guito98/guito98/assets/134552848/54dd64cd-d3a7-4e0f-8339-936bc57361e5)
+![5-2-python-logo-png-image](https://github.com/guito98/guito98/assets/134552848/8e059c3f-d0d0-47d9-888e-dec08f6301e1)
 
 <!---
 guito98/guito98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
