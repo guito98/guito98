@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guilherme Bomfim
 - 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning **C#, Python** and FrontEnd with **HTML, CSS e Javascript**
-- 📖 I’m studying at [Senac]:https://www.ead.senac.br/
+- 📖 I’m studying at [Senac] <link https://www.ead.senac.br/>
 
 
 
